@@ -27,6 +27,9 @@ body {
 .col-md-6 {
     width: 50%;
 }
+.col-md-9 {
+    width: 75%;
+}
 [class*="col-"] {
     float: left;
     padding-left: 15px;
